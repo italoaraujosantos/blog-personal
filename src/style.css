@@ -1,0 +1,22 @@
+#title, .subtitle, .post__title {
+  color:blue; 
+}
+
+.post__title {
+  font-size: 16px;
+  font-style: italic;
+}
+
+.post {
+  background: white;
+  padding: 10px;
+  border: 3px solid black;
+  margin: 10px;
+}
+
+.post__img {
+  align-self: auto;
+  max-width: 90%;
+  width: 1024px;
+  height: 350px;
+}
